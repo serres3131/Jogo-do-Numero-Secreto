@@ -5,6 +5,7 @@ Este é um jogo de adivinhação de números em que o usuário tenta adivinhar u
 O código inclui várias funções para gerenciar diferentes aspectos do jogo. A função exibirTextoNaTela é usada para exibir texto na tela e usar a voz para ler o texto em voz alta em português brasileiro. A função exibirMensagemInicial é usada para exibir a mensagem inicial do jogo. A função verificarChute é usada para verificar se o chute do usuário está correto e fornecer dicas ao usuário. A função gerarNumeroAleatorio é usada para gerar um número secreto aleatório. A função limparCampo é usada para limpar o campo de entrada do usuário. A função reiniciarJogo é usada para reiniciar o jogo.
 
 Este código pode ser facilmente adaptado para diferentes níveis de dificuldade e pode ser usado como base para criar jogos mais complexos e interativos. É um ótimo exemplo de como criar um jogo simples e divertido usando JavaScript.
+Este projeto foi criado seguindo os cursos da Alura.
 
-Para ver o código em funcionamento, basta clicar no link abaixo.
+Para ver o código em funcionamento, basta clicar no link.
 https://jogo-theta.vercel.app/
